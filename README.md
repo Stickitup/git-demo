@@ -5,6 +5,8 @@ C:\Users\katz_\Prueba1
 
 ## Segundo nivel de hashtag
 
+texto introductorio
+
 Texto al pedo
 
 Mas texto poronga al final
